@@ -5,9 +5,9 @@ categories: [Education]
 render_with_liquid: false
 ---
 
-### All Saints High School
-## 2010-2021
-# Notable Achievements
+# All Saints High School
+# 2010-2021
+### Notable Achievements
 
 Member of the School Choir: Contributed as a dedicated member, performing at various school events and competitions.
 
@@ -17,11 +17,11 @@ Class Leader: Demonstrated leadership skills by serving as the class leader, org
 
 Robotics Club Member: Actively participated in the robotics club, contributing to team projects and competitions, and fostering a passion for technology and innovation.
 
-### Narayana Junior College 
+# Narayana Junior College 
 ## 2021-2023
-# Notable Achievements
+### Notable Achievements
 
 Coding Club Member: Engaged with peers in the coding club, collaborating on projects, and enhancing programming skills.
 
-### Michigan State University 
+# Michigan State University 
 ## 2023-present
