@@ -7,7 +7,7 @@ order: 4
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
 
-![About](assets\img\images.jpeg)
+![About](assets/img/images.jpeg)
 
 Hello! I'm Srisruth Karanam, a sophomore majoring in Computer Science at Michigan State University. My passion for science and mathematics has been a driving force throughout my academic journey, guiding me towards the fascinating world of computer science.
 
