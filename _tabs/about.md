@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 # Hello!
-![About](assets/img/images.png)
+
 
  I'm Srisruth Karanam, a sophomore majoring in Computer Science at Michigan State University. My passion for science and mathematics has been a driving force throughout my academic journey, guiding me towards the fascinating world of computer science.
 
